@@ -1,0 +1,16 @@
+PODS:
+  - HSTransition (0.1.0)
+
+DEPENDENCIES:
+  - HSTransition (from `../`)
+
+EXTERNAL SOURCES:
+  HSTransition:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HSTransition: de8888c3497902952f29cc0164cc6ac144d65235
+
+PODFILE CHECKSUM: 337f5c8c11ce847e5dab6e28a05da2c2e05376cd
+
+COCOAPODS: 1.9.1

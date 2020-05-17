@@ -1,0 +1,6 @@
+framework module HSTransition {
+  umbrella header "HSTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}

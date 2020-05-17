@@ -1,0 +1,6 @@
+framework module Pods_HSTransitionDemoTests {
+  umbrella header "Pods-HSTransitionDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
